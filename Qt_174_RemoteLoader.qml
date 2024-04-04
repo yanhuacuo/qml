@@ -18,7 +18,7 @@ FluScrollablePage{
             text:"来自远程端的页面代码推流"
             anchors.verticalCenter: parent.verticalCenter
             onClicked: {
-                Qt.openUrlExternally("https://zhu-zichu.gitee.io/Qt_174_RemoteLoader.qml")
+                Qt.openUrlExternally("https://github.com/yanhuacuo/qml/raw/main/Qt_174_RemoteLoader.qml")
             }
         }
 
