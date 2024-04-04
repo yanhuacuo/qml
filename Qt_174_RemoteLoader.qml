@@ -16,7 +16,7 @@ FluScrollablePage{
         padding: 10
 
         FluButton{
-            text:"鏁翠釜椤甸潰閮ㄧ讲鍦ㄨ繙绋嬬锛岀偣鍑绘煡鐪嬭繙绋嬬浠ｇ爜"
+            text:"来自远程端的页面代码推流"
             anchors.verticalCenter: parent.verticalCenter
             onClicked: {
                 Qt.openUrlExternally("https://zhu-zichu.gitee.io/Qt_174_RemoteLoader.qml")
