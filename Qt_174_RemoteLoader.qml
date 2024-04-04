@@ -27,7 +27,7 @@ FluScrollablePage{
         Layout.fillWidth: true
         Layout.topMargin: -6
         code:'FluRemoteLoader{
-    source: "https://zhu-zichu.gitee.io/Qt5_T_RemoteLoader.qml"
+    source: "https://github.com/yanhuacuo/qml/raw/main/Qt_174_RemoteLoader.qml"
 }'
     }
 
